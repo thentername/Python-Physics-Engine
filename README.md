@@ -32,3 +32,4 @@ __Rotational Motion__ - Center of Gravities of objects will allow for objects to
 __Ramps__ - Angled Static Bodies could interact with Kinematic bodies in interesting ways. Would require Kinematic bodies to be able to rotate. Force would be redirected upon impact with ramps, and frictional forces, normal forces and gravity would allow objects to accelerate down ramps.
 
 __Circular Collision Masks__ - Currently, collision masks of bodies are strictly rectangular. Circular masks would allow for more shapes to collide naturally.
+[![Run on Repl.it](https://repl.it/badge/github/Trevin-S/Python-Physics-Engine)](https://repl.it/github/Trevin-S/Python-Physics-Engine)
